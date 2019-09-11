@@ -2,7 +2,7 @@ import requests
 import json
 import yobit
 
-token =  "623282742:AAFLDCLBWHp3Mssn2CKYUbci_RiqkaSNjvE"
+token =  "BOT"
 URL = 'https://api.telegram.org/bot' + token + '/'
 global last_update_id
 last_update_id = 0
